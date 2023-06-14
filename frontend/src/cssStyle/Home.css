@@ -4,8 +4,7 @@
     border-radius: 4px;
     margin: auto;
     margin-top: 2%;
-    background-color: rgb(112, 112, 218);
-
+    background-image: linear-gradient(to right, #17BEEF,#7042B1);
 }
 #container p{
     color: white;

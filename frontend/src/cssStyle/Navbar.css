@@ -1,10 +1,11 @@
 #navbar{
     display: flex;
     justify-content: space-around;
-    width: 100%;
+    width: 80%;
     margin: auto;
     padding: 10px;
     margin-top: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 #nlogo{
     text-align: left;
